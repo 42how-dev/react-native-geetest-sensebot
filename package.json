@@ -1,25 +1,29 @@
 {
-  "name": "@yyyyu/react-native-geetest-sensebot",
-  "version": "2.1.2",
+  "name": "@alantoa/react-native-geetest-sensebot",
+  "version": "2.2.1",
   "description": "geetest sensebot for react native.",
   "keywords": [
     "react-native",
     "geetest sensebot"
   ],
-  "homepage": "https://github.com/yyyyu/react-native-geetest-sensebot",
+  "homepage": "https://github.com/alantoa/react-native-geetest-sensebot",
   "bugs": {
-    "url": "https://github.com/yyyyu/react-native-geetest-sensebot/issues"
+    "url": "https://github.com/alantoa/react-native-geetest-sensebot/issues"
   },
   "license": "MIT",
   "author": {
     "name": "yyyyu",
     "email": "g592842897@gmail.com"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yyyyu/react-native-geetest-sensebot.git"
+    "url": "https://github.com/alantoa/react-native-geetest-sensebot.git"
   },
   "scripts": {
     "test": "echo ignore",
